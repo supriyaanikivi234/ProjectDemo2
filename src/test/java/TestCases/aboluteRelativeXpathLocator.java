@@ -33,8 +33,7 @@ public class aboluteRelativeXpathLocator {
 			
 			//absolute xpath
 			driver.findElement(By.xpath("/html/body/div/div/div[2]/div[1]/div/div/form/div[1]/input")).sendKeys("supriya");
-			System.out.println("entred usrname and password");
-			System.out.println("code is must import to git");
+			System.out.println("updated first time chanhes to git-second commit");
 		}
 		
 		
